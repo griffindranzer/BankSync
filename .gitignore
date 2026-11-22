@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+out/
+
+# Generated files
+sources.txt
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
